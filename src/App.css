@@ -1,0 +1,4 @@
+.page-container {
+  width: min(90vw, 1000px);
+  margin: 0 auto;
+}
